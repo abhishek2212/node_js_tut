@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Abhishek",
+    "age": 23,
+    "gender": "Male",
+    "department": "School of computer science",
+    "email": "xyz123@gmail.com"
+  },
+  {
+    "name": "Alok",
+    "age": 22,
+    "gender": "Male",
+    "department": "School of Mechanical Engineering",
+    "email": "xyz243@gmail.com"
+  },
+  {
+    "name": "Tanya",
+    "age": 20,
+    "gender": "Fe-male",
+    "department": "School of B pharmacy",
+    "email": "xyz232@gmail.com"
+  }
+]
